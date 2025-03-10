@@ -2,7 +2,7 @@
 
 
 
-My name is **Lorenzo Imbonati** and I'm currently pursing a Master's Degree in **Data Science** at University of Milano-Bicocca.
+My name is **Lorenzo Imbonati**, I obtained my Master's Degree in **Data Science** at University of Milano-Bicocca and currently I'm working as Data Scientist.
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
